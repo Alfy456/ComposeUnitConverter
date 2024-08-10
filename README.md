@@ -20,8 +20,11 @@ A simple unit converter app built with Jetpack Compose for Android
 
 ## Screenshots
 
-![Screenshot_20240810_115150](https://github.com/user-attachments/assets/f7e79418-33c7-4730-9f19-366dc229431b)
-![Screenshot_20240810_115238](https://github.com/user-attachments/assets/6e8cdf1d-917e-4301-8c82-96c0cc16f46e)
+![Screenshot_20240810_115150](https://github.com/user-attachments/assets/9f0768b1-33d8-477a-b27e-69c746c229ba)
+![Screenshot_20240810_115238](https://github.com/user-attachments/assets/7cec9b25-2f63-47bd-9d38-40f1dd453ffe)
+
+
+
 
 
 
