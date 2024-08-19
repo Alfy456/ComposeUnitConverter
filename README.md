@@ -15,7 +15,7 @@ A simple unit converter app built with Jetpack Compose for Android
 - [Jetpack Compose](https://developer.android.com/jetpack/compose): Modern Android UI toolkit.
 - [Kotlin](https://kotlinlang.org/): Programming language for Android development.
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture): Including ViewModel for state management.
-- [Dependency - injection]([https://developer.android.com/training/dependency-injection/dagger-basics]): Dagger implementation
+- [Dependency - injection](https://developer.android.com/training/dependency-injection/dagger-basics): Dagger implementation
 
 
 ## Screenshots
