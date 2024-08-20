@@ -6,7 +6,8 @@ import com.example.unitconverter.data.ConverterRepository
 import javax.inject.Inject
 
 
-class ConverterViewModelFactory (private val repository: ConverterRepository) :ViewModelProvider.NewInstanceFactory() {
+class ConverterViewModelFactory @Inject constructor(private val repository: ConverterRepository) :
+    ViewModelProvider.NewInstanceFactory() {
 
     override fun <T : ViewModel> create(modelClass: Class<T>): T {
         return ConverterViewModel(repository) as T
